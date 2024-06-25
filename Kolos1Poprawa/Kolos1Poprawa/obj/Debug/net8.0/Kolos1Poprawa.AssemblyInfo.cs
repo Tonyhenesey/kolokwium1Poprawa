@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kolos1Poprawa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df22dfe4339a0f4b66fa3d8ca3b2172786f43a35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dfdd6dda2a04ffa8da6c073427dbaa4a64fce94")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kolos1Poprawa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kolos1Poprawa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
